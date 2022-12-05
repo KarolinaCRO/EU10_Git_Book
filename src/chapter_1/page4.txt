@@ -2,3 +2,5 @@
 This is a practice for committing and pushing.
 
 Test - add page 4
+
+Edit page 4 and repeat the process of committing and pushing
